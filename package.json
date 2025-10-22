@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> ab592bba4604d79ab41e24c17b75427df9c2b41c
   "name": "myapp",
   "private": true,
   "version": "0.0.0",
@@ -13,7 +17,12 @@
     "@reduxjs/toolkit": "^2.9.1",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+<<<<<<< HEAD
     "react-redux": "^9.2.0"
+=======
+    "react-redux": "^9.2.0",
+    "redux": "^5.0.1"
+>>>>>>> ab592bba4604d79ab41e24c17b75427df9c2b41c
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
@@ -25,5 +34,12 @@
     "eslint-plugin-react-refresh": "^0.4.22",
     "globals": "^16.4.0",
     "vite": "^7.1.7"
+<<<<<<< HEAD
+=======
+=======
+  "dependencies": {
+    "redux": "^5.0.1"
+>>>>>>> 13873f39c8168ff870c3bce1882a12be50b4cc51
+>>>>>>> ab592bba4604d79ab41e24c17b75427df9c2b41c
   }
 }
