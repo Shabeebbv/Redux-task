@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "myapp",
   "private": true,
   "version": "0.0.0",
@@ -26,5 +27,9 @@
     "eslint-plugin-react-refresh": "^0.4.22",
     "globals": "^16.4.0",
     "vite": "^7.1.7"
+=======
+  "dependencies": {
+    "redux": "^5.0.1"
+>>>>>>> 13873f39c8168ff870c3bce1882a12be50b4cc51
   }
 }
